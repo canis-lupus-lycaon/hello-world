@@ -1,3 +1,7 @@
 # hello-world
-This is a "Hello World!" repository.
-It's only gain of existance is getting through GitHub's tutorial.
+=============
+
+Hi humans and other read-capable beings!
+
+I'm Dimon and now in GitHub.
+Will be doing most projects here from now on.
